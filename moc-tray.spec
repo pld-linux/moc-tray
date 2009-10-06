@@ -8,7 +8,7 @@ Source0:	http://moc-tray.googlecode.com/files/%{name}-%{version}.tar.bz2
 # Source0-md5:	f668f12fabe5fca41130955590558001
 URL:		http://code.google.com/p/moc-tray/
 Requires:	moc
-Requires:	perl-gtk
+Requires:	perl-Gtk2
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
