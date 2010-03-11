@@ -1,11 +1,11 @@
 Summary:	Control your music on console player via tray icon
 Name:		moc-tray
-Version:	0.3
+Version:	0.4
 Release:	1
 License:	GPL v3
 Group:		Applications
 Source0:	http://moc-tray.googlecode.com/files/%{name}-%{version}.tar.bz2
-# Source0-md5:	f668f12fabe5fca41130955590558001
+# Source0-md5:	e8ebc26a326b9498ff025283b032ba98
 URL:		http://code.google.com/p/moc-tray/
 Requires:	moc
 Requires:	perl-Encode
